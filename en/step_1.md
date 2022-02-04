@@ -1,59 +1,25 @@
-## Introduction
+Jumper wires are used to carry the electrical current between electronics components. They are used for prototyping projects because they allow you to attach and detach components without the need for soldering (creating more permanent connections by melting metal).
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+There are three different types of jumper wire:
 
-### What you will make
++ socket-socket
++ pin-socket
++ pin-pin
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Each is recognised by what is placed at each end of the wire. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+### The pin
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+A pin end has a short piece of metal sticking out of the black plastic end. This can be placed inside a socket end or into a breadboard. 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![The pin end of a jumper wire.](images/pin.png)
 
-+ A computer or tablet capable of running Scratch 3
+## The socket
 
-### Software
+The socket end looks like a small piece of black plastic. It has a hole inside that can receive a pin end of a jumper wire or the legs attached to other electrical components. 
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![The socket end of a jumper wire.](images/socket.png)
 
-### Downloads
+## Purchasing jumper wires
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+When purchasing jumper wires you may notice that they are called male-male (m-m), female-female (f-f) and male-female (m-f). This is legacy (prior) language used to describe the ends of the wires. **Pin** and **socket** are more inclusive terms that should now be used to describe jumper wires. 
