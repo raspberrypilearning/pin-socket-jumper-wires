@@ -4,22 +4,22 @@
 
 + قابس
 + دبوس المقبس
-+ pin-pin
++ دبوس-دبوس
 
 يتم التعرف على كل منها من خلال ما يوضع عند كل طرف من السلك.
 
 ### الدبوس
 
-A pin end has a short piece of metal sticking out of the black plastic end. This can be placed inside a socket end or into a breadboard.
+يمتلك طرف الدبوس قطعة معدنية قصيرة تخرج من نهاية الطرف البلاستيكي الأسود. يمكن وضعها داخل طرف المقبس أو في لوحة التجارب.
 
-![The pin end of a jumper wire.](images/pin.png)
+![نهاية دبوس سلك التوصيل.](images/pin.png)
 
-### The socket
+### المقبس
 
-The socket end looks like a small piece of black plastic. It has a hole inside that can receive a pin end of a jumper wire or the legs attached to other electrical components.
+يبدو طرف المقبس كقطعة صغيرة من البلاستيك الأسود. يحتوي على فتحة بالداخل يمكنها استقبال طرف دبوس سلك التوصيل أو أرجل متصلة بمكونات كهربائية أخرى.
 
-![The socket end of a jumper wire.](images/socket.png)
+![نهاية مقبس سلك التوصيل.](images/socket.png)
 
-### Purchasing jumper wires
+### شراء أسلاك توصيل
 
-When purchasing jumper wires you may notice that they are called male-male (m-m), female-female (f-f) and male-female (m-f). This is legacy (prior) language used to describe the ends of the wires. **Pin** and **socket** are more inclusive terms that should now be used to describe jumper wires. 
+عند شراء أسلاك توصيل ، قد تلاحظ أنها تسمى ذكر - ذكر (m-m) ، أنثى - أنثى (f-f) -ذكر - أنثى (m-f). هذه لغة قديمة (سابقة) تستخدم لوصف نهايات الأسلاك. **Pin** and **socket**هي مصطلحات أكثر شمولاً يجب استخدامها الآن لوصف أسلاك التوصيل. 
