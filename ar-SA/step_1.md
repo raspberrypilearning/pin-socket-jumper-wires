@@ -1,14 +1,14 @@
-Jumper wires are used to carry the electrical current between electronics components. They are used for prototyping projects because they allow you to attach and detach components without the need for soldering (creating more permanent connections by melting metal).
+تستخدم أسلاك التوصيل لنقل التيار الكهربائي بين المكونات الإلكترونية. يتم استخدامها في مشاريع النماذج الأولية لأنها تسمح لك بإرفاق وفصل المكونات دون الحاجة إلى لحام (إنشاء المزيد من التوصيلات الدائمة عن طريق صهر المعدن).
 
-There are three different types of jumper wire:
+هناك ثلاثة أنواع مختلفة من أسلاك التوصيل:
 
-+ socket-socket
-+ pin-socket
++ قابس
++ دبوس المقبس
 + pin-pin
 
-Each is recognised by what is placed at each end of the wire.
+يتم التعرف على كل منها من خلال ما يوضع عند كل طرف من السلك.
 
-### The pin
+### الدبوس
 
 A pin end has a short piece of metal sticking out of the black plastic end. This can be placed inside a socket end or into a breadboard.
 
