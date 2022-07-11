@@ -1,25 +1,25 @@
-Jumper wires are used to carry the electrical current between electronics components. They are used for prototyping projects because they allow you to attach and detach components without the need for soldering (creating more permanent connections by melting metal).
+Les fils de liaison sont utilisés pour transporter le courant électrique entre les composants électroniques. Ils sont utilisés pour les projets de prototypage car ils te permettent de fixer et de détacher des composants sans avoir besoin de soudure (création de connexions plus permanentes en faisant fondre le métal).
 
-There are three different types of jumper wire:
+Il existe trois types de fil de liaison différents :
 
-+ socket-socket
-+ pin-socket
-+ pin-pin
++ prise - prise
++ broche - prise
++ broche - broche
 
-Each is recognised by what is placed at each end of the wire.
+Chacun est reconnu par ce qui est placé à chaque extrémité du fil.
 
-### The pin
+### La broche
 
-A pin end has a short piece of metal sticking out of the black plastic end. This can be placed inside a socket end or into a breadboard.
+Une extrémité broche a un petit morceau de métal qui sort de l'extrémité en plastique noir. Cela peut être placé à l'intérieur d'une extrémité prise ou dans une platine d'expérimentation.
 
-![The pin end of a jumper wire.](images/pin.png)
+![L'extrémité broche d'un fil de liaison.](images/pin.png)
 
-### The socket
+### La prise
 
-The socket end looks like a small piece of black plastic. It has a hole inside that can receive a pin end of a jumper wire or the legs attached to other electrical components.
+L'extrémité prise ressemble à un petit morceau de plastique noir. Il a un trou à l'intérieur qui peut recevoir une extrémité broche d'un fil de liaison ou les pattes attachées à d'autres composants électriques.
 
-![The socket end of a jumper wire.](images/socket.png)
+![L'extrémité prise d'un fil de liaison.](images/socket.png)
 
-### Purchasing jumper wires
+### Achat de fils de liaison
 
-When purchasing jumper wires you may notice that they are called male-male (m-m), female-female (f-f) and male-female (m-f). This is legacy (prior) language used to describe the ends of the wires. **Pin** and **socket** are more inclusive terms that should now be used to describe jumper wires. 
+Lors de l'achat de fils de liaison, tu remarqueras peut-être qu'ils sont appelés mâle-mâle (mm), femelle-femelle (ff) et mâle-femelle (mf). Il s'agit d'un langage hérité (antérieur) utilisé pour décrire les extrémités des fils. **Broche** et **prise** sont des termes plus inclusifs qui doivent maintenant être utilisés pour décrire les fils de connexion. 
