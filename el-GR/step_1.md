@@ -1,25 +1,25 @@
-Jumper wires are used to carry the electrical current between electronics components. They are used for prototyping projects because they allow you to attach and detach components without the need for soldering (creating more permanent connections by melting metal).
+Τα καλώδια jumper (βραχυκυκλωτήρας) χρησιμοποιούνται για τη μεταφορά του ηλεκτρικού ρεύματος μεταξύ των ηλεκτρονικών εξαρτημάτων. Χρησιμοποιούνται για τη δημιουργία πρωτοτύπων έργων επειδή σου επιτρέπουν να συνδέεις και να αποσυνδέεις εξαρτήματα χωρίς την ανάγκη ηλεκτρικής συγκόλλησης (δημιουργώντας πιο μόνιμες συνδέσεις λιώνοντας μέταλλο).
 
-There are three different types of jumper wire:
+Υπάρχουν τρεις διαφορετικοί τύποι καλωδίων jumper:
 
 + socket-socket
 + pin-socket
 + pin-pin
 
-Each is recognised by what is placed at each end of the wire.
+Το καθένα αναγνωρίζεται από αυτό που τοποθετείται σε κάθε άκρο του καλωδίου.
 
-### The pin
+### To pin (ακίδα)
 
-A pin end has a short piece of metal sticking out of the black plastic end. This can be placed inside a socket end or into a breadboard.
+Ένα άκρο pin έχει ένα κοντό κομμάτι μετάλλου που προεξέχει από το μαύρο πλαστικό άκρο. Αυτό μπορεί να τοποθετηθεί μέσα σε ένα άκρο socket ή σε ένα breadboard.
 
-![The pin end of a jumper wire.](images/pin.png)
+![Το άκρο pin του καλωδίου jumper.](images/pin.png)
 
-### The socket
+### Το socket (υποδοχή)
 
-The socket end looks like a small piece of black plastic. It has a hole inside that can receive a pin end of a jumper wire or the legs attached to other electrical components.
+Το άκρο του socket μοιάζει με ένα μικρό κομμάτι μαύρου πλαστικού. Έχει μια τρύπα στο εσωτερικό που μπορεί να δεχθεί ένα άκρο pin ενός καλωδίου jumper ή ακροδέκτες που συνδέονται με άλλα ηλεκτρικά εξαρτήματα.
 
-![The socket end of a jumper wire.](images/socket.png)
+![Το άκρο του socket του καλωδίου jumper.](images/socket.png)
 
-### Purchasing jumper wires
+### Αγορά καλωδίων jumper
 
-When purchasing jumper wires you may notice that they are called male-male (m-m), female-female (f-f) and male-female (m-f). This is legacy (prior) language used to describe the ends of the wires. **Pin** and **socket** are more inclusive terms that should now be used to describe jumper wires. 
+Όταν αγοράζεις καλώδια jumper, μπορεί να παρατηρήσεις ότι ονομάζονται male-male (m-m) αρσενικό-αρσενικό, female-female (f-f) θηλυκό-θηλυκό and male-female (m-f) αρσενικό-θηλυκό. Αυτή είναι η παλαιού τύπου (προηγούμενη) γλώσσα που χρησιμοποιείται για να περιγράψει τα άκρα των καλωδίων. **Pin** και **socket** είναι πιο κατάλληλοι όροι που θα πρέπει τώρα να χρησιμοποιούνται για την περιγραφή των καλωδίων jumper. 
