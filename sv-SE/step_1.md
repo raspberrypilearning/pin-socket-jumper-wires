@@ -1,25 +1,25 @@
-Jumper wires are used to carry the electrical current between electronics components. They are used for prototyping projects because they allow you to attach and detach components without the need for soldering (creating more permanent connections by melting metal).
+Byglingskablar används för att transportera den elektriska strömmen mellan elektronikkomponenter. De används för prototypprojekt eftersom de låter dig fästa och ta bort komponenter utan att behöva löda (att skapa mer permanenta anslutningar genom att smälta metall).
 
-There are three different types of jumper wire:
+Det finns tre olika typer av byglingskablar:
 
-+ socket-socket
-+ pin-socket
-+ pin-pin
++ uttag-uttag
++ stift-uttag
++ stift-stift
 
-Each is recognised by what is placed at each end of the wire.
+De känns igen på vad som är i varje ände av tråden.
 
-### The pin
+### Stiftet
 
-A pin end has a short piece of metal sticking out of the black plastic end. This can be placed inside a socket end or into a breadboard.
+En stiftände har en kort bit metall som sticker ut ur den svarta plaständen. Denna kan placeras i en uttagsände eller i en breadboard.
 
-![The pin end of a jumper wire.](images/pin.png)
+![Stiftänden på en byglingskabel.](images/pin.png)
 
-### The socket
+### Uttaget
 
-The socket end looks like a small piece of black plastic. It has a hole inside that can receive a pin end of a jumper wire or the legs attached to other electrical components.
+Sockeländen ser ut som en liten bit svart plast. Den har ett hål inuti som kan ta emot en stiftände av en byglingskabel eller benen fästa vid andra elektriska komponenter.
 
-![The socket end of a jumper wire.](images/socket.png)
+![Stiftänden på en byglingskabel.](images/socket.png)
 
-### Purchasing jumper wires
+### Inköp av byglingskablar
 
-When purchasing jumper wires you may notice that they are called male-male (m-m), female-female (f-f) and male-female (m-f). This is legacy (prior) language used to describe the ends of the wires. **Pin** and **socket** are more inclusive terms that should now be used to describe jumper wires. 
+När du köper bygelkablar kanske du märker att de kallas male-male (mm), female-female (ff) och male-female (mf). Detta är ett gammalt (tidigare) språk som används för att beskriva ändarna på ledningarna. **Stift** och **uttag** är mer inkluderande termer som nu ska användas för att beskriva byglingskablar. 
