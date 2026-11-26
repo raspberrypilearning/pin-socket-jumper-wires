@@ -22,4 +22,4 @@ El extremo con receptáculo parece una pequeña pieza de plástico negro. Tiene 
 
 ### Compra de cables puente
 
-Al comprar cables puente, puedes notar que se llaman macho-macho (m-m), hembra-hembra (f-f) y macho-hembra (m-f). Estos son términos antiguos (usados antes) para describir los extremos de los cables. **Pin** y **receptáculo** son términos más inclusivos que ahora se deben usar para describir los cables puente.
+Al comprar cables puente, puedes notar que se llaman macho-macho (m-m), hembra-hembra (f-f) y macho-hembra (m-f). Estos son términos antiguos (usados antes) para describir los extremos de los cables. **Pin** y **receptáculo** son términos más inclusivos que ahora se deben usar para describir los cables puente. 
