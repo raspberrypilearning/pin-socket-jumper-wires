@@ -22,5 +22,4 @@ L'extrémité prise ressemble à un petit morceau de plastique noir. Il a un tro
 
 ### Achat de fils de liaison
 
-Lors de l'achat de fils de liaison, tu remarqueras peut-être qu'ils sont appelés mâle-mâle (mm), femelle-femelle (ff) et mâle-femelle (mf). Il s'agit d'un langage hérité (antérieur) utilisé pour décrire les extrémités des fils. **Broche** et **prise** sont des termes plus inclusifs qui doivent maintenant être utilisés pour décrire les fils de connexion.
-
+Lors de l'achat de fils de liaison, tu remarqueras peut-être qu'ils sont appelés mâle-mâle (mm), femelle-femelle (ff) et mâle-femelle (mf). Il s'agit d'un langage hérité (antérieur) utilisé pour décrire les extrémités des fils. **Broche** et **prise** sont des termes plus inclusifs qui doivent maintenant être utilisés pour décrire les fils de connexion. 
