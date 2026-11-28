@@ -22,4 +22,4 @@ Het uiteinde van de aansluiting ziet eruit als een klein stukje zwart plastic. H
 
 ### Het kopen van jumperdraden
 
-Bij de aanschaf van jumperdraden merk je misschien dat ze male-male (m-m), female-female (f-f) en male-female (m-f) worden genoemd. Dit is een oudere taal die wordt gebruikt om de uiteinden van de draden te beschrijven. **Pen** en **bus** zijn meer inclusieve termen die nu gebruikt moeten worden om jumperdraden te beschrijven.
+Bij de aanschaf van jumperdraden merk je misschien dat ze male-male (m-m), female-female (f-f) en male-female (m-f) worden genoemd. Dit is een oudere taal die wordt gebruikt om de uiteinden van de draden te beschrijven. **Pen** en **bus** zijn meer inclusieve termen die nu gebruikt moeten worden om jumperdraden te beschrijven. 
